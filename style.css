@@ -34,6 +34,7 @@ body{
     font-size: 30px;
     font-weight: 600;
     box-shadow: 5px 5px 10px #b8becb , -5px -5px 10px #ffffff;
+    font-family: var(--ff);
 }
 .Key{
     display: flex;
