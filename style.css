@@ -4,8 +4,8 @@
 button{cursor: pointer;}
 
 html{
-    --ff : "Rubik"
-    font-size: 10px;
+    --ff : "Rubik";
+    font-size: 16px;
 }
 body{
     display: flex;
@@ -39,7 +39,7 @@ body{
     background-color: #000000;
     font-size: 2rem;
     font-weight: 600;
-    box-shadow: 0px 0px 10px 2px #b8becb;
+    box-shadow: 0px 0px 10px 2px #414143;
     font-family: var(--ff);
     color: #ffffff;
 }
